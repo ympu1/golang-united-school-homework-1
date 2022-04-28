@@ -3,5 +3,5 @@ package solution
 import "github.com/kyokomi/emoji"
 
 func GetMessage() string {
-	return emoji.Sprintf("Hello 🗺️!")
+	return emoji.Sprintf("Hello :world_map:!")
 }
